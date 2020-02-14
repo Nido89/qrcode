@@ -1,0 +1,3 @@
+"# SimpleQRcodegeneratorapp-" 
+"# SimpleQRcodegeneratorapp-" 
+"# qrcode" 
